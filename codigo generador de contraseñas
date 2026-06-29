@@ -1,4 +1,3 @@
-[generador_contr.py](https://github.com/user-attachments/files/29447757/generador_contr.py)
 import random
 
 longitud = int(input("Ingrese la longitud de la contraseña: "))
